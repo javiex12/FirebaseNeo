@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "902523563086",
+    "firebase_url": "https://traficperu-19155.firebaseio.com",
+    "project_id": "traficperu-19155",
+    "storage_bucket": "traficperu-19155.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902523563086:android:0693f55bac358b86",
+        "android_client_info": {
+          "package_name": "firebase.neo.analytics.sproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902523563086-8ji4chcvdi0phrpf417piml0agjlr1vd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "firebase.neo.analytics.sproject",
+            "certificate_hash": "b200460ce7616f123c99f6ad3e09448d83bf2ced"
+          }
+        },
+        {
+          "client_id": "902523563086-v1baagrh095fe6c66d2j5ltuatfahpda.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIiA5_J8kzA1fd0D5XPfTMwZSiHpm5u2Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902523563086-v1baagrh095fe6c66d2j5ltuatfahpda.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
